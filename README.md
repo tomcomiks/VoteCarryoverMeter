@@ -41,7 +41,7 @@ The user has the possibility to compare his simulation with the real election re
 
 This guide for the developer in charge of maintaining the application presents the software architecture, the classes used and the data model handled by the application.
 
-### 2.1 Controller
+### 2.1 Controller Main
 
 As per Processing requirements, the application is launched via the Main containing the required methods setup() and draw() and the event listeners.
 
@@ -57,11 +57,15 @@ This class defines the attributes for a VoteCarryover
 
 ### 2.3 Views
 
-#### 2.3.1 Class CandidateView
+#### 2.3.1 View Meter
+
+This class contains the methods to display the Meter.
+
+#### 2.3.2 View Candidate
 
 This class contains the methods to display a Candidate.
 
-#### 2.3.2 Class VoteCarryoverView
+#### 2.3.3 View VoteCarryover
 
 This class contains the methods to display a VoteCarryover
 
