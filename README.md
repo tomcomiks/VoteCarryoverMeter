@@ -13,6 +13,8 @@ This user guide describes the application, its main functionalities and use case
 The application models the phenomenon of vote carryover in French presidential elections between the
 first round and second round. The user can dynamically simulate the result of carryover votes on the two candidates in the second round and abstention.
 
+![Screenshot of the application](Capture.png)
+
 ### 1.2 Main Functionalities
 
 #### 1.2.1 Network of Candidates
