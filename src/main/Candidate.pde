@@ -49,7 +49,6 @@ public class Candidate {
     return view;
   }
 
-  //Settes
   public void setView(CandidateView view) {
     this.view = view;
   } 
