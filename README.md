@@ -1,6 +1,6 @@
 # Vote Carryover Meter
 
-- Programming language: **Java**
+- Programming language: **Processing**
 - Integrated development environment (IDE): **Processing**
 - Intended platforms: **Processing**
 
